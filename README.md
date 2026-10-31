@@ -1,4 +1,4 @@
-# SpaceX Quiz
+# Spacex Quiz
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 
@@ -17,9 +17,13 @@ Small quiz web app created during Dev Day Minna together with session participan
 
 ## Screenshot
 
-Add a screenshot to the repo (e.g. `screenshots/quiz.png`) and update this section to show it:
+<img width="404" height="394" alt="image" src="https://github.com/user-attachments/assets/d47b0942-13c8-4cb2-bd6f-bf70cfe1e856" />
+<img width="406" height="408" alt="image" src="https://github.com/user-attachments/assets/5f4aab3a-60d3-45cf-b5fa-6f6160fa8e02" />
+<img width="409" height="415" alt="image" src="https://github.com/user-attachments/assets/829f9201-713e-4312-8548-bd0f3da7fb86" />
+<img width="405" height="322" alt="image" src="https://github.com/user-attachments/assets/dad4859e-1923-4e2c-8866-22c825f2c4c2" />
 
-![screenshot](./screenshots/quiz.png)
+
+
 
 ## Run locally
 
