@@ -62,4 +62,4 @@ This project is licensed under the MIT License — see the [LICENSE](C:/projects
 
 ---
 
-This project was created during a live Dev Day session and is intended for open-sourcing.
+This project was created during a live Dev Day session to introduce attendees to the power of the github copilot appand is intended for open-sourcing.
